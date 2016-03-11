@@ -1,0 +1,8 @@
+11/8/2010 10:49:59 AM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	ExecuteNonQuery: Connection property has not been initialized.
+11/8/2010 10:50:05 AM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	ExecuteNonQuery: Connection property has not been initialized.
+11/8/2010 10:50:09 AM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	ExecuteNonQuery: Connection property has not been initialized.
+11/8/2010 10:50:39 AM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	ExecuteNonQuery: Connection property has not been initialized.
+11/8/2010 11:56:53 AM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Line 1: Incorrect syntax near '2'.
+11/8/2010 3:31:37 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Incorrect syntax near the keyword 'SELECT'.
+Line 1: Incorrect syntax near 'dbo'.
+11/8/2010 3:31:57 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Line 1: Incorrect syntax near 'dbo'.

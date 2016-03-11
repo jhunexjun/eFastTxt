@@ -1,0 +1,28 @@
+11/10/2010 2:40:49 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+11/10/2010 2:41:03 PM	Error: System.Windows.Forms.Button, Text: &Find: System.Windows.Forms.MouseEventArgs	91Object reference not set to an instance of an object.
+11/10/2010 3:12:49 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+11/10/2010 3:12:51 PM	Error: System.Windows.Forms.Button, Text: &Find: System.Windows.Forms.MouseEventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:21:52 PM	Error: Main()	5Login failed for user 'Impact_Services'.
+12/7/2010 2:23:18 PM	Error: Main()	5Login failed for user 'Impact_Services'.
+12/7/2010 2:24:53 PM	Error: Main()	5Login failed for user 'Impact_Services'.
+12/7/2010 2:34:30 PM	Error: Main()	5Login failed for user 'Impact_Services'.
+12/7/2010 2:36:43 PM	Error: Main()	5Login failed for user 'Impact_Services'.
+12/7/2010 2:38:09 PM	Error: ConnectSmartDatabase()	5Login failed for user 'Impact_Services'.
+12/7/2010 2:41:13 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:41:19 PM	Error: System.Windows.Forms.Button, Text: &Find: System.EventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:41:35 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:41:41 PM	Error: System.Windows.Forms.Button, Text: &Find: System.Windows.Forms.MouseEventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:41:47 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:41:53 PM	Error: System.Windows.Forms.Button, Text: &Find: System.EventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:42:08 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:42:09 PM	Error: System.Windows.Forms.Button, Text: &Find: System.EventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:49:51 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:49:52 PM	Error: System.Windows.Forms.Button, Text: &Find: System.Windows.Forms.MouseEventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:50:49 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:50:49 PM	Error: System.Windows.Forms.Button, Text: &Find: System.EventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:51:00 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:51:00 PM	Error: System.Windows.Forms.Button, Text: &Find: System.EventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:51:04 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:51:06 PM	Error: System.Windows.Forms.Button, Text: &Find: System.Windows.Forms.MouseEventArgs	91Object reference not set to an instance of an object.
+12/7/2010 2:51:08 PM	Error: Salesman_Entry_DCR.ClassPerformQuery	5	Cannot convert a char value to money. The char value has incorrect syntax.
+12/7/2010 2:51:09 PM	Error: System.Windows.Forms.Button, Text: &Find: System.EventArgs	91Object reference not set to an instance of an object.

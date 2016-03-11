@@ -1,0 +1,18 @@
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\e-FAST Text.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\e-FAST Text.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\e-FAST Text.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\bin\Debug\e-FAST Text.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\bin\Debug\e-FAST Text.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\bin\Debug\e-FAST Text.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFastText.frmAboutBox.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFastText.frmCrystalViewer.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFastText.frmDepositSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFastText.SplashScreen.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFastText.frmLogin.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFastText.frmMain.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFastText.frmAuthentication.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFastText.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFASTTxt Consolidator.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText Consolidator\obj\Debug\eFASTTxt Consolidator.vbproj.ResolveComReference.cache

@@ -1,0 +1,1 @@
+2/15/2012 6:32:49 PM	Log: Copy has been successful from \\150.200.30.244\shared_updates\eFastTxt\Updates\e-FAST Text.exe to D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\Exe to run\e-FAST Text.exe

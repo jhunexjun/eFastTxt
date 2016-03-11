@@ -1,0 +1,16 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\bin\Debug\Nestle SMS Utility.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\bin\Debug\Nestle SMS Utility.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\bin\Debug\Nestle SMS Utility.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle_SMS_Utility.frmBroadCast.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle_SMS_Utility.frmMain.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle_SMS_Utility.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle SMS Utility.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle SMS Utility.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle SMS Utility.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle SMS Utility.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle_SMS_Utility.frmBusinessPartners.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle_SMS_Utility.frmDialog.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle_SMS_Utility.frmLogin.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle_SMS_Utility.frmDialogChangePassword.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Debug\Nestle_SMS_Utility.frmUserName.resources

@@ -1,0 +1,1 @@
+2/15/2012 6:32:58 PM	Error: ConsolidatorDatabase()	5Login failed for user '(null)'. Reason: Not associated with a trusted SQL Server connection.

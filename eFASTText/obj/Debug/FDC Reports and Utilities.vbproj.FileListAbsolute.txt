@@ -1,0 +1,76 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Debug\FDC Reports and Utilities.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Debug\FDC Reports and Utilities.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Debug\FDC Reports and Utilities.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmBroadCast.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmBusinessPartners.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmDialog.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmLogin.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmMain.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmUserName.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC Reports and Utilities.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC Reports and Utilities.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC Reports and Utilities.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC Reports and Utilities.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmMustHave.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmCycPlnActMonitoring.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmCustomerConcern.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmViewMessage.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_Reports_and_Utilities.frmDialogChangePassword.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC Reports and Utilities.vbproj.GenerateResource.Cache
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.exe
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.pdb
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.xml
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmChangeUplineID.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCustomerConcern.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmbroadcast.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmBusinessPartners.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDialog.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDialogChangePassword.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmLogin.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmMain.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmMustHave.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmPaymentRegisterReport.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmTelecomProvider.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmUserName.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmViewMessage.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.Resources.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.exe
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.xml
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.pdb
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCrystalViewer.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCustomerMasterData.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmSMSInbox.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDCR.resources
+D:\My Documents\VB .NET Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmVoidPassword.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmChangeUplineID.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCrystalViewer.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCustomerConcern.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmbroadcast.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmBusinessPartners.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDCR.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDialog.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDialogChangePassword.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmLogin.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmMain.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmMustHave.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmPaymentRegisterReport.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCustomerMasterData.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmSMSInbox.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmTelecomProvider.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmUserName.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmViewMessage.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmVoidPassword.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC Reports and Utilities.vbproj.GenerateResource.Cache

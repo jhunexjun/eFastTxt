@@ -1,0 +1,137 @@
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.exe
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.xml
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC eFastTxt.pdb
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.exe
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.pdb
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\bin\Debug\FDC eFastTxt.xml
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmChangeUplineID.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCrystalViewer.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCustomerConcern.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmbroadcast.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmBusinessPartners.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCollectionSummary.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDCR.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDialog.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmDialogChangePassword.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmLogin.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmMain.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmMustHave.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmPaymentRegisterReport.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmCustomerMasterData.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmSMSInbox.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmTelecomProvider.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmUserName.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmViewMessage.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.frmVoidPassword.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\FDC_eFastTxt.Resources.resources
+D:\My Documents\Visual Studio 2008\Backup Files\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFASTTxt.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Debug\e-FAST Text.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Debug\e-FAST Text.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Debug\e-FAST Text.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmApprovedInvoices.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmChangeUplineID.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmCrystalViewer.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmCustomerConcern.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmbroadcast.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmBusinessPartners.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmCollectionSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmSettings.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmDCR.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmDepositSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmDetailedCollectionSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmDialog.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmSOASummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmProgressBar.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmSuccessfulPayment.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.SplashScreen.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmDialogChangePassword.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmLogin.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmMain.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmMustHave.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmPaymentRegisterReport.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmCustomerMasterData.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmSMSInbox.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmTelecomProvider.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmUserName.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmViewMessage.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmAuthentication.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFASTTxt.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\e-FAST Text.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\e-FAST Text.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\e-FAST Text.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmAboutBox.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Debug\eFastText.frmExtructPayment.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\e-FAST Text.exe.config
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\e-FAST Text.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\e-FAST Text.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\e-FAST Text.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\My.Excel9.Interop.dll
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmViewReply.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmBanks.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmInvoices.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSetupCustomerBank.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmInvoiceSelection.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSMColSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSMDetailedColSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.Dialog1.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmAboutBox.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmAdministration.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmApprovedInvoices.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmChangeUplineID.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmCrystalViewer.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmCustomerConcern.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmbroadcast.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmBusinessPartners.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDPSProcessing.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmMiscPayment.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmPaymentForPosting.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmPDCforPosting.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmViewSMSInbox.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSMDetailedColSelection.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSOASelection.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmViewSOA.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSearchItem.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmStockReqResult.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmStockReqSelection.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDetailedRemitSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmRemitSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmTaggingOfRemittances.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmPromo.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDCREntry.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSettings.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDCR.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDepositSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDialog.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSOASummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmProgressBar.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmStocksRequisitionSlip.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSuccessfulPayment.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.SplashScreen.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDialogChangePassword.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmLogin.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmMain.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSMSInbox.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmPDCListings.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmUserName.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmViewMessage.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmAuthentication.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFASTTxt.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\e-FAST Text.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\e-FAST Text.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\e-FAST Text.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFASTTxt.vbproj.ResolveComReference.cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmSP.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDelRepSel.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmDeposit_DPS.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmOTReport.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\obj\Debug\eFastText.frmOTSelect.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\office.dll
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\eFASTText\bin\Debug\office.xml

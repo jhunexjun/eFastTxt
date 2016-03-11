@@ -1,0 +1,22 @@
+12/1/2010 6:18:45 PM	U_Error: EXE Updater.exe update file does not exists.
+12/2/2010 11:16:39 AM	U_Error: EXE Updater.exe update file does not exists.
+12/2/2010 1:52:08 PM	U_Error: EXE Updater.exe update file does not exists.
+12/2/2010 6:53:45 PM	U_Error: EXE Updater.exe update file does not exists.
+12/3/2010 9:10:58 AM	U_Error: EXE Updater.exe update file does not exists.
+12/3/2010 9:13:51 AM	U_Error: EXE Updater.exe update file does not exists.
+12/3/2010 11:54:31 AM	U_Error: EXE Updater.exe update file does not exists.
+12/3/2010 4:25:00 PM	Log: Successfully updated EXE Updater
+12/3/2010 4:54:28 PM	U_Error: e-FAST Text Update file does not exists.
+12/3/2010 4:57:36 PM	U_Error: e-FAST Text Update file does not exists.
+12/3/2010 4:58:28 PM	Error: Main()	5Login failed for user 'Impact_Services'.
+12/3/2010 4:58:29 PM	Error: ConnectSmartDatabase()	5Login failed for user 'Impact_Services'.
+12/3/2010 5:09:45 PM	Error: Main()	5Login failed for user 'Impact_Services'.
+12/3/2010 5:09:57 PM	Error: ConnectSmartDatabase()	5Login failed for user 'Impact_Services'.
+12/9/2010 9:39:09 AM	Error: Main()	5Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+12/9/2010 11:39:29 AM	Log: Successfully updated EXE Updater
+12/9/2010 12:45:12 PM	Log: Successfully updated EXE Updater
+12/11/2010 12:50:31 PM	Error: Main()	5A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+12/11/2010 12:51:45 PM	U_Error: e-FAST Text Update file does not exists.
+12/11/2010 12:51:45 PM	U_Error: EXE Updater.exe update file does not exists.
+12/15/2010 9:25:35 AM	Error: Main()	5A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+12/15/2010 9:26:23 AM	Error: Main()	5A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)

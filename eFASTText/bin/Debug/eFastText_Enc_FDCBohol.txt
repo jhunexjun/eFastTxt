@@ -1,0 +1,6 @@
+3/28/2012 9:16:17 PM	Error: eFastText.CPerformQuery	5	Invalid object name 'Enc_FDCBohol.dbo.ArCustomer'.
+Invalid object name 'Enc_FDCBohol.dbo.TblArTerms'.
+Invalid object name 'Enc_FDCBohol.dbo.ArCustomer'.
+3/28/2012 9:16:18 PM	Error: eFastText.frmInvoices, Text: Invoice Status Monitoring	91	Object reference not set to an instance of an object.
+3/28/2012 9:16:41 PM	U_Error: e-FAST Text update file does not exists in \\150.200.30.244\shared_updates\eFastTxt\Updates or access denied.
+3/28/2012 9:16:41 PM	U_Error: EXE Updater.exe update file does not exists in \\150.200.30.244\shared_updates\eFastTxt\Updates  or access denied.

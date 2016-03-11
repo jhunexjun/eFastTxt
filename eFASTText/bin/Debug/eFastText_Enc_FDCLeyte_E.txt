@@ -1,0 +1,2 @@
+3/28/2012 9:10:13 PM	U_Error: e-FAST Text update file does not exists in \\150.200.30.244\shared_updates\eFastTxt\Updates or access denied.
+3/28/2012 9:10:13 PM	U_Error: EXE Updater.exe update file does not exists in \\150.200.30.244\shared_updates\eFastTxt\Updates  or access denied.

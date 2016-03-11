@@ -1,0 +1,14 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\bin\Release\Nestle SMS Utility.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\bin\Release\Nestle SMS Utility.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\bin\Release\Nestle SMS Utility.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle_SMS_Utility.frmBroadCast.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle_SMS_Utility.frmBusinessPartners.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle_SMS_Utility.frmDialog.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle_SMS_Utility.frmLogin.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle_SMS_Utility.frmMain.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle_SMS_Utility.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle SMS Utility.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle SMS Utility.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle SMS Utility.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Nestle SMS Utility\Nestle SMS Utility\obj\Release\Nestle SMS Utility.pdb

@@ -1,0 +1,36 @@
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Release\e-FAST Text.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Release\e-FAST Text.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Release\e-FAST Text.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmApprovedInvoices.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmChangeUplineID.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmCrystalViewer.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmCustomerConcern.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmbroadcast.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmBusinessPartners.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmCollectionSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmSettings.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmDCR.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmDepositSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmDetailedCollectionSummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmDialog.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmSOASummary.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmProgressBar.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.SplashScreen.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmDialogChangePassword.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmLogin.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmMain.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmMustHave.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmPaymentRegisterReport.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmCustomerMasterData.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmSMSInbox.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmTelecomProvider.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmUserName.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmViewMessage.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.frmVoidPassword.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFastText.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\eFASTTxt.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\e-FAST Text.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\e-FAST Text.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\FDC Reports and Utilities\obj\Release\e-FAST Text.pdb

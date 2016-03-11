@@ -1,0 +1,20 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Release\FDC Reports and Utilities.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Release\FDC Reports and Utilities.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\bin\Release\FDC Reports and Utilities.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmCustomerConcern.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmbroadcast.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmBusinessPartners.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmCycPlnActMonitoring.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmDialog.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmDialogChangePassword.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmLogin.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmMain.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmMustHave.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmUserName.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.frmViewMessage.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC_Reports_and_Utilities.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC Reports and Utilities.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC Reports and Utilities.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC Reports and Utilities.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\FDC Reports and Utilities\FDC Reports and Utilities\obj\Release\FDC Reports and Utilities.pdb

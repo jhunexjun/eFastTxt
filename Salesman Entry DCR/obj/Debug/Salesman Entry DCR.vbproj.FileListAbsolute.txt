@@ -1,0 +1,20 @@
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\bin\Debug\Salesman Entry DCR.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\bin\Debug\Salesman Entry DCR.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\bin\Debug\Salesman Entry DCR.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\obj\Debug\Salesman_Entry_DCR.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\obj\Debug\Salesman Entry DCR.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\obj\Debug\Salesman Entry DCR.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\obj\Debug\Salesman Entry DCR.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\Salesman Entry DCR\obj\Debug\Salesman Entry DCR.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\bin\Debug\Salesman Entry DCR.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\bin\Debug\Salesman Entry DCR.pdb
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\bin\Debug\Salesman Entry DCR.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\obj\Debug\Salesman_Entry_DCR.frmCrystalViewer.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\obj\Debug\Salesman_Entry_DCR.frmSalesmanEntryDCR.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\obj\Debug\Salesman_Entry_DCR.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\obj\Debug\Salesman Entry DCR.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\obj\Debug\Salesman Entry DCR.exe
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\obj\Debug\Salesman Entry DCR.xml
+D:\My Documents\Visual Studio 2008\Projects\eFASTTxt\Salesman Entry DCR\obj\Debug\Salesman Entry DCR.pdb
